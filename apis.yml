@@ -2,7 +2,7 @@ aid: committee-on-foreign-investment-in-the-united-states
 url: >-
   https://raw.githubusercontent.com/api-evangelist/committee-on-foreign-investment-in-the-united-states/refs/heads/main/apis.yml
 name: Committee on Foreign Investment in the United States
-x-type: government
+kind: government
 description: >-
   The Committee on Foreign Investment in the United States (CFIUS) is an
   inter-agency committee chaired by the U.S. Department of the Treasury that
