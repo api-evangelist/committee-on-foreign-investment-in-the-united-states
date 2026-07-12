@@ -118,6 +118,8 @@ apis:
       - Building tooling that ingests regulatory text from eCFR or govinfo
       - Cross-referencing CFIUS regulations with other federal rules
 common:
+  - type: DomainSecurity
+    url: security/committee-on-foreign-investment-in-the-united-states-domain-security.yml
   - type: Website
     url: https://home.treasury.gov/policy-issues/international/the-committee-on-foreign-investment-in-the-united-states-cfius
   - type: Documentation
