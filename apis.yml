@@ -14,7 +14,19 @@ description: >-
   emerging national security risks. CFIUS work is largely confidential, and
   the public-facing surface is limited to regulations, annual reports to
   Congress, FAQs, declarations and notices guidance, and case studies.
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: freemium
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Freemium
+  confidence: medium
+  source:
+  - plans
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/committee-on-foreign-investment-in-the-united-states.png
 tags:
   - CFIUS
   - Federal Government
