@@ -29,6 +29,13 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/committee-on-foreign-investment-in-the-united-states.png
 tags:
   - CFIUS
+  - Federal-Government
+  - Foreign Investment
+  - National Security
+  - Regulations
+  - Treasury
+tags_raw:
+  - CFIUS
   - Federal Government
   - Foreign Investment
   - National Security
