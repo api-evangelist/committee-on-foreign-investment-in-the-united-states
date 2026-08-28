@@ -14,6 +14,17 @@ description: >-
   emerging national security risks. CFIUS work is largely confidential, and
   the public-facing surface is limited to regulations, annual reports to
   Congress, FAQs, declarations and notices guidance, and case studies.
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: freemium
   onboarding: unknown
