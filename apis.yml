@@ -41,7 +41,7 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/committee-on-foreign-investment-in-the-united-states.png
 tags:
   - CFIUS
-  - Federal-Government
+  - Federal Government
   - Foreign Investment
   - National Security
   - Regulations
@@ -53,6 +53,7 @@ tags_raw:
   - National Security
   - Regulation
   - Treasury
+  - Federal-Government
 created: '2024-12-03'
 modified: '2026-04-28'
 specificationVersion: '0.23'
@@ -66,7 +67,6 @@ apis:
       Annual reports are released as PDF documents and contain the most
       complete public statistics on CFIUS activity.
     humanURL: https://home.treasury.gov/policy-issues/international/the-committee-on-foreign-investment-in-the-united-states-cfius/cfius-reports-and-tables
-    baseURL: https://home.treasury.gov
     tags:
       - Annual Report
       - PDF
@@ -95,7 +95,6 @@ apis:
       filings themselves are confidential and are not exposed via any public
       API.
     humanURL: https://home.treasury.gov/policy-issues/international/the-committee-on-foreign-investment-in-the-united-states-cfius/cfius-laws-and-guidance
-    baseURL: https://home.treasury.gov
     tags:
       - Compliance
       - Declarations
