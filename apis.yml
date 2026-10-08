@@ -148,6 +148,12 @@ apis:
       - Building tooling that ingests regulatory text from eCFR or govinfo
       - Cross-referencing CFIUS regulations with other federal rules
 common:
+  - type: Plans
+    url: plans/committee-on-foreign-investment-in-the-united-states-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/committee-on-foreign-investment-in-the-united-states-rate-limits.yml
+  - type: FinOps
+    url: finops/committee-on-foreign-investment-in-the-united-states-finops.yml
   - type: DomainSecurity
     url: security/committee-on-foreign-investment-in-the-united-states-domain-security.yml
   - type: Website
