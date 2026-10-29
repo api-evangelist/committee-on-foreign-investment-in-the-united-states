@@ -64,55 +64,104 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-The Committee on Foreign Investment in the United States (CFIUS) is an inter-agency committee chaired by the U.S. Department of the Treasury that reviews certain foreign investment transactions for national security implications. CFIUS work is largely confidential, and the public-facing surface is limited to regulations, annual reports to Congress, FAQs, declarations and notices guidance, and case studies.
+The Committee on Foreign Investment in the United States (CFIUS) is an inter-agency committee chaired by the U.S. Department of the Treasury that reviews certain foreign investment transactions for national security implications. CFIUS reviews are governed by the Defense Production Act and Section 721, and were significantly strengthened by the Foreign Investment Risk Review Modernization Act of 2018 (FIRRMA). On September 15, 2022, President Biden issued Executive Order 14083 directing CFIUS to focus on emerging national security risks. CFIUS work is largely confidential, and the public-facing surface is limited to regulations, annual reports to Congress, FAQs, declarations and notices guidance, and case studies.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/committee-on-foreign-investment-in-the-united-states/refs/heads/main/apis.yml)
+**Areas:** CFIUS · Federal Government · Foreign Investment · National Security · Regulations · Treasury
 
-## Tags
+## Committee on Foreign Investment in the United States on APIs.io
 
-- CFIUS, Federal Government, Foreign Investment, National Security, Regulation, Treasury
+Everything profiled for Committee on Foreign Investment in the United States is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/committee-on-foreign-investment-in-the-united-states/](https://apis.io/providers/committee-on-foreign-investment-in-the-united-states/)** — or go straight to one of the APIs or properties below.
 
-## Timestamps
+### APIs (3)
 
-- **Created:** 2024-12-03
-- **Modified:** 2026-04-28
+- [CFIUS Annual Report to Congress](https://apis.io/apis/committee-on-foreign-investment-in-the-united-states/annual-reports/) — CFIUS publishes an annual report to Congress summarizing covered transactions reviewed during the prior calendar year, statistics on notices, declarations,…
+- [CFIUS Declarations and Notices Guidance](https://apis.io/apis/committee-on-foreign-investment-in-the-united-states/declarations-and-notices/) — CFIUS provides guidance for parties submitting declarations (short-form filings) and joint voluntary notices (full-form filings) for covered transactions.…
+- [CFIUS Regulations and Statutes](https://apis.io/apis/committee-on-foreign-investment-in-the-united-states/regulations/) — The CFIUS regulatory framework is published in 31 CFR Parts 800, 801, and 802, and is anchored in Section 721 of the Defense Production Act as amended by…
 
-## APIs
+### Published properties
 
-### CFIUS Annual Report to Congress
-CFIUS publishes an annual report to Congress summarizing covered transactions reviewed during the prior calendar year, statistics on notices, declarations, withdrawn cases, and presidential decisions.
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-**Human URL:** [Reports and tables](https://home.treasury.gov/policy-issues/international/the-committee-on-foreign-investment-in-the-united-states-cfius/cfius-reports-and-tables)
+#### Security (1)
 
-#### Tags
-- Annual Report, PDF, Statistics, Transparency
+Authentication, trust centre, and vulnerability disclosure.
 
-### CFIUS Declarations and Notices Guidance
-CFIUS provides guidance for parties submitting declarations and joint voluntary notices for covered transactions. Filings themselves are confidential.
+- [Committee On Foreign Investment In The United States Domain Security](https://apis.io/security/committee-on-foreign-investment-in-the-united-states/committee-on-foreign-investment-in-the-united-states-domain-security/)
 
-**Human URL:** [Laws and guidance](https://home.treasury.gov/policy-issues/international/the-committee-on-foreign-investment-in-the-united-states-cfius/cfius-laws-and-guidance)
+#### Plans and pricing (1)
 
-#### Tags
-- Compliance, Declarations, Filings, Guidance, Notices
+Published plans, tiers and prices.
 
-### CFIUS Regulations and Statutes
-The CFIUS regulatory framework is published in 31 CFR Parts 800, 801, and 802, and is anchored in Section 721 of the Defense Production Act as amended by FIRRMA.
+- [Committee On Foreign Investment In The United States Plans Pricing](https://apis.io/plans/committee-on-foreign-investment-in-the-united-states/committee-on-foreign-investment-in-the-united-states-plans-pricing/)
 
-**Human URL:** [eCFR Title 31 Chapter VIII](https://www.ecfr.gov/current/title-31/subtitle-B/chapter-VIII)
+#### Rate limits (1)
 
-#### Tags
-- eCFR, FIRRMA, Federal Register, Regulations, Statutes
+Published request limits.
 
-## Common Properties
+- [Committee On Foreign Investment In The United States Rate Limits](https://apis.io/rate-limits/committee-on-foreign-investment-in-the-united-states/committee-on-foreign-investment-in-the-united-states-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Committee On Foreign Investment In The United States Finops](https://apis.io/finops/committee-on-foreign-investment-in-the-united-states/committee-on-foreign-investment-in-the-united-states-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://home.treasury.gov/policy-issues/international/the-committee-on-foreign-investment-in-the-united-states-cfius)
 - [Documentation](https://home.treasury.gov/policy-issues/international/the-committee-on-foreign-investment-in-the-united-states-cfius/cfius-laws-and-guidance)
-- [Reference](https://www.ecfr.gov/current/title-31/subtitle-B/chapter-VIII)
-- [Reports](https://home.treasury.gov/policy-issues/international/the-committee-on-foreign-investment-in-the-united-states-cfius/cfius-reports-and-tables)
-- [FAQ](https://home.treasury.gov/policy-issues/international/the-committee-on-foreign-investment-in-the-united-states-cfius/cfius-frequently-asked-questions-faqs)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 11.1** — emerging · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 62.5 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 7.9 |
+| Developer ergonomics | 16.7 |
+| Access clarity | 7.9 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Government & Public Sector
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/committee-on-foreign-investment-in-the-united-states/](https://apis.io/providers/committee-on-foreign-investment-in-the-united-states/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Committee on Foreign Investment in the United States: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/committee-on-foreign-investment-in-the-united-states/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
